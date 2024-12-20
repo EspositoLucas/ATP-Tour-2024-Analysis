@@ -38,7 +38,6 @@ This project focuses on analyzing data from the 2024 ATP Tour (men's professiona
   - pandas
   - matplotlib
   - seaborn
-  - numpy
 
 ### Setup
 1. Clone this repository:
