@@ -1,0 +1,83 @@
+Date,Tournament,Location,Country,Country_Error,Category,Surface,Winner,Runner Up,Winner ATP Ranking (Current),Runner Up ATP Ranking (Current),Result,Points , Prize Money , Not Useful Column 
+ 07/01/2024,Brisbane International,Brisbane,Australia,Aus-tra-lia,ATP 250,Hard,Grigor Dimitrov,Holger Rune,10,13,7-6(5) 6-4,250,"$661,585.00 ", TRUE 
+ 07/01/2024,Bank of China Hong Kong Tennis Open,Hong Kong,China,"Ch""ina",ATP 250,Hard,Andrey Rublev,Emil Ruusuvuori,8,37,6-4 6-4,250,"$661,585.00 ", TRUE 
+ 13/01/2024,Adelaide International,Adelaide,Australia,Australia,ATP 250,Hard,Ji?í Lehe?ka,Jack Draper,28,15,4-6 6-4 6-3,250,"$661,585.00 ", TRUE 
+ 13/01/2024,ASB Classic,Auckland,New Zealand,New Zealand,ATP 250,Hard,Alejandro Tabilo ,Taro Daniel,23,84,6-2 7-5,250,"$661,585.00 ", TRUE 
+ 28/01/2024,Australian Open,Melbourne,Australia,Australia,Grand Slam,Hard,Jannik Sinner,Danil Medvedev,1,5,3-6 3-6 6-4 6-4 6-4,2000,"$38,923,200.00 ", TRUE 
+ 04/02/2024,Open Occitanie,Montpellier,France,France,ATP 250,Hard,Alexander Bublik,Borna Coric,33,90,5-7 6-2 6-3,250,"€ 579,320", TRUE 
+ 11/02/2024,Dallas Open,Dallas,United States,United States,ATP 250,Hard,Tommy Paul,Marcos Giron,12,46,7-6(3) 5-7 6-3,250,"$756,020.00 ", TRUE 
+ 11/02/2024,Open 13 Provence,Marseille,France,France,ATP 250,Hard,Ugo Humbert,Grigor Dimitrov,14,10,6-4 6-3,250,"€ 724,015", TRUE 
+ 11/02/2024,Córdoba Open,Córdoba,Argen|ti|na,Argen|ti|na,ATP 250,Clay,Luciano Darderi,Facundo Bagnis,44,144,6-1 6-4,250,"$562,345.00 ", TRUE 
+ 18/02/2024,ABN AMRO Open,Rotterdam,Netherlands,Net|her|lands,ATP 500,Hard,Jannik Sinner,Alex de Minaur,1,9,7-5 6-4,500,"€ 2,134,985", TRUE 
+ 18/02/2024,Delray Beach Open,Delray Beach,United States,United States,ATP 250,Hard,Taylor Fritz,Tommy Paul,4,12,6-2 6-3 ,250,"$661,585.00 ", TRUE 
+ 18/02/2024,Argen|ti|na Open,Buenos Aires,Argen|ti|na,Argen|ti|na,ATP 250,Clay,Facundo Diaz Acosta,Nicolas Jarry,79,35,6-3 6-4 ,250,"$642,615.00 ", TRUE 
+ 25/02/2024,Rio Open,Rio de Janeiro,Brazil,Brazil,ATP 500,Clay,Sebastian Baez,Mariano Navone,27,47, 6-2 6-1,500,"$2,100,230.00 ", TRUE 
+ 24/02/2024,Qatar ExxonMobil Open,Doha,Qatar,Qatar,ATP 250,Hard,Karen Khachanov,Jakub Mensik,19,48,7-6(12) 6-4,250,"$1,395,875.00 ", TRUE 
+ 24/02/2024,Mifel Tennis Open,Los Cabos,Mexico,Mexico,ATP 250,Hard,Jordan Thompson,Casper Ruud,26,6,6-3 7-6(4),250,"$915,245.00 ", TRUE 
+ 02/03/2024,Dubai Duty Free Tennis Championships,Dubai,United Arab Emirates,United/Arab -Emirates,ATP 500,Hard,Ugo Humbert,Alexander Bublik,14,33, 6-4 6-3,500,"$2,941,785.00 ", TRUE 
+ 02/03/2024,Abierto Mexicano Telcel,Acapulco,Mexico,Mexico,ATP 500,Hard,Alex de Minaur,Casper Ruud,9,6,6-4 6-4,500,"$2,206,080.00 ", TRUE 
+ 02/03/2024,Movistar Chile Open,Santiago,Chile,Chile,ATP 250,Clay,Sebastian Baez,Alejandro Tabilo ,27,23,3-6 6-0 6-4,250,"$661,585.00 ", TRUE 
+ 17/03/2024,BNP Paribas Open,Indian Wells,United States,United States,ATP Masters 1000,Hard,Carlos Alcaraz,Danil Medvedev,3,5, 7-6(5) 6-1 ,1000,"$9,495,555.00 ", TRUE 
+ 17/03/2024,Miami Open,Miami,United States,United States,ATP Masters 1000,Hard,Carlos Alcaraz,Danil Medvedev,3,5, 7-6(5) 6-1 ,1000,"$8,995,555.00 ", TRUE 
+ 07/04/2024,Fayez Sarofim & Co. U.S. Men's Clay Court Championship,Houston,United States,United States,ATP 250,Clay,Ben Shelton,Frances Tiafoe,21,18,7-5 4-6 6-3,250,"$661,585.00 ", TRUE 
+ 07/04/2024,Grand Prix Hassan II,Marrakech,Morocco,Morocco,ATP 250,Clay,Mateo Berrettini,Roberto Carballes Baena,34,57, 7-5 6-2,250,"€ 579,320", TRUE 
+ 07/04/2024,Millennium Estoril Open,Estoril,Portugal,Portugal,ATP 250,Clay,Hubert Hurkacz,Pedro Martinez,16,43,6-3 6-4,250,"€ 579,320", TRUE 
+ 14/04/2024,Rolex Monte-Carlo Masters,Monte-Carlo,Monaco,Monaco,ATP Masters 1000,Clay,Stefanos Tsitsipas,Casper Ruud,10,6,6–1 6–4,1000,"€ 5,950,575", TRUE 
+ 21/04/2024,Barcelona Open,Barcelona,Spain,Spain,ATP 500,Clay,Casper Ruud,Stefanos Tsitsipas,6,10,7–5 6–3,500,"€ 2,782,960", TRUE 
+ 21/04/2024,Romanian Open,Bucharest,Romania,Romania,ATP 250,Clay,Márton Fucsovics,Mariano Navone,104,47,6–4 7–5,250,"€ 579,320", TRUE 
+ 21/04/2024,BMW Open,Munich,Germany,Germany,ATP 250,Clay,Jan-Lennard Struff,Taylor Fritz,42,4,7–5 6–3,250,"€ 579,320", TRUE 
+ 05/05/2024,Madrid Open,Madrid,Spain,Spain,ATP Masters 1000,Clay,Andrey Rublev,Félix Auger-Aliassime,8,29,4–6 7–5 7–5,1000,"€ 7,877,020", TRUE 
+ 19/05/2024,Italian Open,Rome,Italy,Italy,ATP Masters 1000,Clay,Alexander Zverev,Nicolás Jarry,2,35,6–4 7–5,1000,"€ 7,877,020", TRUE 
+ 25/05/2024,Geneva Open,Geneva,Switzerland,Switz-erl-and,ATP 250,Clay,Casper Ruud,Tomáš Machá?,6,25,7–5 6–3,250,"€ 579,320", TRUE 
+ 25/05/2024,Lyon Open,Lyon,France,France,ATP 250,Clay,Giovanni Mpetshi Perricard,Tomás Martín Etcheverry,31,39,6–4 1–6 7–6(9–7),250,"€ 579,320", TRUE 
+ 09/06/2024,French Open,Paris,France,France,Grand Slam,Clay,Carlos Alcaraz,Alexander Zverev,3,2,6–3 2–6 5–7 6–1 6–2,2000,"€ 24,961,000", TRUE 
+ 16/06/2024,Stuttgart Open,Stuttgart,Germany,Ger!ma|ny,ATP 250,Grass,Jack Draper,Matteo Berrettini,15,34,3–6 7–6(7–5) 6–4,250,"€ 734,915", TRUE 
+ 16/06/2024,LIBEMA Open,'s-Hertogenbosch,Netherlands,Netherlands,ATP 250,Grass,Alex de Minaur,Sebastian Korda,9,22,6–2 6–4,250,"€ 690,135", TRUE 
+ 23/06/2024,Halle Open,Halle,Germany,Germany,ATP 500,Grass,Jannik Sinner,Hubert Hurkacz,1,16,7–6(10–8) 7–6(7–2),500,"€ 2,255,655", TRUE 
+ 23/06/2024,Queen's Club Championships,London,Great Britain,Great Britain,ATP 500,Grass,Tommy Paul,Lorenzo Musetti,12,17,6–1 7–6(10–8),500,"€ 2,255,655", TRUE 
+ 29/06/2024,Mallorca Championships,Mallorca,Spain,Spain,ATP 250,Grass,Alejandro Tabilo,Sebastian Ofner,23,88,6–3 6–4,250,"€ 932,135", FALSE 
+ 29/06/2024,Eastbourne International,Eastbourne,Great Britain,Great Britain,ATP 250,Grass,Taylor Fritz,Max Purcell,4,105,6–4 6–3,250,"€ 740,160", FALSE 
+ 14/07/2024,Wimbledon,London,Great Britain,Great Britain,Grand Slam,Grass,Carlos Alcaraz,Novak Djokovic,3,7,6–2 6–2 7–6(7–4),2000," £20,747,000 ", FALSE 
+ 21/07/2024,Hamburg Open,Hamburg,Germany,Germany,ATP 500,Clay,Arthur Fils,Alexander Zverev,20,2,6–3 3–6 7–6(7–1),500,"€ 1,891,995", FALSE 
+ 21/07/2024,Hall of Fame Open,Newport,United States,United States,ATP 250,Grass,Marcos Giron,Alex Michelsen,46,41,6–7(4–7) 6–3 7–5,250,"$661,585 ", FALSE 
+ 21/07/2024,Swedish Open,Båstad,Sweden,Sweden,ATP 250,Clay,Nuno Borges,Rafael Nadal,36,153,6–3 6–2,250,"€ 579,320", FALSE 
+ 21/07/2024,Swiss Open,Gstaad,Switzerland,Switzerland,ATP 250,Clay,Matteo Berrettini,Quentin Halys,34,72,6–3 6–1,250,"€ 579,320", FALSE 
+ 27/07/2024,Austrian Open,Kitzbühel,Austria,Aus%tria,ATP 250,Clay,Matteo Berrettini,Hugo Gaston,34,76,7–5 6–3,250,"€ 579,320", FALSE 
+ 27/07/2024,Croatia Open,Umag,Croatia,Croatia,ATP 250,Clay,Francisco Cerúndolo,Lorenzo Musetti,30,17,2–6 6–4 7–6(7–5),250,"€ 579,320", FALSE 
+ 28/07/2024,Atlanta Open,Atlanta,United States,United States,ATP 250,Hard,Yoshihito Nishioka,Jordan Thompson,69,26,4–6 7–6(7–2) 6–2,250,"$756,020 ", TRUE 
+ 04/08/2024,Washington Open,Washington,United States,United States,ATP 500,Hard,Sebastian Korda,Flavio Cobolli,22,32,4–6 6–2 6–0,500,"$2,100,230 ", TRUE 
+ 12/08/2024,Canadian Open,Montreal,Canada,Canada,ATP Masters 1000,Hard,Alexei Popyrin,Andrey Rublev,24,8,6–2 6–4,1000,"$6,795,555 ", TRUE 
+ 19/08/2024,Cincinnati Open,Cincinnati,United States,United States,ATP Masters 1000,Hard,Jannik Sinner,Frances Tiafoe,1,18,7–6(7–4) 6–2,1000,"$6,795,555 ", TRUE 
+ 24/08/2024,Winston-Salem Open,Winston-Salem,United States,United States,ATP 250,Hard,Lorenzo Sonego,Alex Michelsen,53,41,6–0 6–3,250,"$779,780 ", TRUE 
+ 08/09/2024,US Open,New York City,United States,United States,Grand Slam,Hard,Jannik Sinner,Taylor Fritz,1,4,6–3 6–4 7–5,2000,"$33,977,000 ", TRUE 
+ 24/09/2024,Chengdu Open,Chengdu,China,"Ch""ina",ATP 250,Hard,Shang Juncheng,Lorenzo Musetti,50,17,7–6(7–4) 6–1,250,"$1,171,655 ", TRUE 
+ 24/09/2024,Hangzhou Open,Hangzhou,China,"Ch""ina",ATP 250,Hard,Marin ?ili?,Zhang Zhizhen,180,45,7–6(7–5) 7–6(7–5),250,"$1,000,630 ", TRUE 
+ 02/10/2024,China Open,Beijing,China,"Ch""ina",ATP 500,Hard,Carlos Alcaraz,Jannik Sinner,3,1,6–7(6–8) 6–4 7–6(7–3),500,"$695,750 ", TRUE 
+ 01/10/2024,Japan Open,Tokyo,Japan,Japan,ATP 500,Hard,Arthur Fils,Ugo Humbert,20,14,5–7 7–6(8–6) 6–3,500,"$340,010 ", TRUE 
+ 13/10/2024,Shanghai Masters,Shanghai,China,"Ch""ina",ATP Masters 1000,Hard,Jannik Sinner,Novak Djokovic,1,7,7–6(7–4) 6–3,1000,"$8,995,555 ", TRUE 
+ 20/10/2024,Almaty Open,Almaty,Kazakhstan,Kazakhstan,ATP 250,Hard,Karen Khachanov,Gabriel Diallo,19,87,6–2 5–7 6–3,250,"$1,036,700 ", TRUE 
+ 20/10/2024,European Open,Antwerp,Belgium,Belgium,ATP 250,Hard,Roberto Bautista Agut,Ji?í Lehe?ka,51,28,7–5 6–1,250,"€ 690,135", TRUE 
+ 20/10/2024,Stockholm Open,Stockholm,Sweden,Sweden,ATP 250,Hard ,Tommy Paul,Grigor Dimitrov,12,10,6–4 6–3,250,"€ 690,135", TRUE 
+ 27/10/2024,Swiss Indoors,Basel,Switzerland,Switzerland,ATP 500,Hard ,Giovanni Mpetshi Perricard,Ben Shelton,31,21,6–4 7–6(7–4),500,"€ 2,385,100", FALSE 
+ 27/10/2024,Vienna Open,Vienna,Austria,Aus%tria,ATP 500,Hard ,Jack Draper,Karen Khachanov,15,19,6–4 7–5,500,"€ 2,470,310", FALSE 
+ 03/11/2024,Paris Masters,Paris,France,France,ATP Masters 1000,Hard ,Alexander Zverev,Ugo Humbert,2,14,6–2 6–2,1000,"€ 5,950,575", FALSE 
+ 09/11/2024,Belgrade Open,Belgrade,Serbia,Serbia,ATP 250,Hard,Denis Shapovalov,Hamad Medjedovic,56,114,6–4 6–4,250,"€ 750,000", FALSE 
+ 09/11/2024,Moselle Open,Metz,France,France,ATP 250,Hard ,Benjamin Bonzi,Cameron Norrie,75,49,7–6(8–6) 6–4,250,"€ 579,320", FALSE 
+ 17/11/2024,ATP Finals,Turin,Italy,Italy,ATP Finals,Hard ,Jannik Sinner,Taylor Fritz,1,4,6–4 6–4,0,"$15,250,000 ", FALSE 
+ 27/10/2024,Swiss Indoors,Basel,Switzerland,Switzerland,ATP 500,Hard ,Giovanni Mpetshi Perricard_,Ben Shelton,NULL,null,6–4 7–6(7–4),500,"€ 2,385,100", FALSE 
+ 27/10/2024,Vienna Open,Vienna,Austria,Aus%tria,ATP 500,Hard ,...Jack Draper,Karen Khachanov,NULL,null,6–4 7–5,500,"€ 2,470,310", FALSE 
+ 03/11/2024,Paris Masters,Paris,France,France,ATP Masters 1000,Hard ,Alexander Zverev123,Ugo Humbert,NULL,null,6–2 6–2,1000,"€ 5,950,575", FALSE 
+ 09/11/2024,Belgrade Open,Belgrade,Serbia,Serbia,ATP 250,Hard,Denis Shapovalov_,Hamad Medjedovic,NULL,null,6–4 6–4,250,"€ 750,000", TRUE 
+ 09/11/2024,Moselle Open,Metz,France,France,ATP 250,Hard ,/Benjamin Bonzi,Cameron Norrie,NULL,null,7–6(8–6) 6–4,250,"€ 750,000", TRUE 
+ 17/11/2024,ATP Finals,Turin,Italy,Italy,ATP Finals,Hard ,Jannik Sinner/,Taylor Fritz,NULL,null,6–4 6–4,0,"€ 579,320", TRUE 
+ 27/10/2024,Vienna Open,Vienna,Austria,Aus%tria,ATP 500,Hard ,/Jack Draper,Karen Khachanov,15,19,6–4 7–5,500,"€ 2,470,310", FALSE 
+ 03/11/2024,Paris Masters,Paris,France,France,ATP Masters 1000,Hard ,Alexander Zverev...,Ugo Humbert,2,14,6–2 6–2,1000,"€ 5,950,575", FALSE 
+ 09/11/2024,Belgrade Open,Belgrade,Serbia,Serbia,ATP 250,Hard,Denis Shapovalov/,Hamad Medjedovic,56,114,6–4 6–4,250,"€ 750,000", FALSE 
+ 09/11/2024,Moselle Open,Metz,France,France,ATP 250,Hard ,Benjamin Bonzi/,Cameron Norrie,75,49,7–6(8–6) 6–4,250,"€ 579,320", FALSE 
+ 17/11/2024,ATP Finals,Turin,Italy,Italy,ATP Finals,Hard ,/Jannik Sinner,Taylor Fritz,1,4,6–4 6–4,0,"$15,250,000 ", FALSE 
+ 27/10/2024,Swiss Indoors,Basel,Switzerland,Switzerland,ATP 500,Hard ,Giovanni Mpetshi Perricard,Ben Shelton,31,21,6–4 7–6(7–4),500,"€ 2,385,100", FALSE 
+ 27/10/2024,Vienna Open,Vienna,Austria,Aus%tria,ATP 500,Hard ,Jack Draper,Karen Khachanov,15,19,6–4 7–5,500,"€ 2,470,310", FALSE 
+ 03/11/2024,Paris Masters,Paris,France,France,ATP Masters 1000,Hard ,Alexander Zverev,Ugo Humbert,2,14,6–2 6–2,1000,"€ 5,950,575", FALSE 
+ 09/11/2024,Belgrade Open,Belgrade,Serbia,Serbia,ATP 250,Hard,Denis Shapovalov,Hamad Medjedovic,56,114,6–4 6–4,250,"€ 750,000", FALSE 
+ 09/11/2024,Moselle Open,Metz,France,France,ATP 250,Hard ,Benjamin Bonzi,Cameron Norrie,75,49,7–6(8–6) 6–4,250,"€ 579,320", FALSE 
+ 17/11/2024,ATP Finals,Turin,Italy,Italy,ATP Finals,Hard ,Jannik Sinner,Taylor Fritz,1,4,6–4 6–4,0,"$15,250,000 ", FALSE 
